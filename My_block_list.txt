@@ -8,5 +8,6 @@
 #LatestVersion Don't care
 # Domain Count: Don't know
 #===============================================================
+||welovemanga.net^$popup
 https://niceanimegames.com
 https://theonlygames.com
