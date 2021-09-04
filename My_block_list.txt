@@ -9,8 +9,8 @@
 # Domain Count: Don't know
 #===============================================================
 ||welovemanga.net^$popup
-mymyads.net
+||mymyads.net^
 
 # Specific site
-https://niceanimegames.com
-https://theonlygames.com
+niceanimegames.com
+theonlygames.com
