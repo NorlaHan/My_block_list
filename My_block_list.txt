@@ -3,8 +3,7 @@
 # Author: NorlaHan
 # License: GNU General Public License v3.0
 # Home: https://github.com/NorlaHan
-# @ GitLab : https://github.com/NorlaHan/My_block_list
-# Updated: 04 Sep 2021
+# Updated: Any time I like
 #LatestVersion Don't care
 # Domain Count: Don't know
 #===============================================================
