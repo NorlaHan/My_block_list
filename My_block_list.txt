@@ -10,6 +10,7 @@
 ||welovemanga.net^$popup
 ||mymyads.net^
 ||gamforce.com^
+||www.coolpc.com.tw/tw/wp-content^
 # Specific site
 niceanimegames.com
 theonlygames.com
