@@ -9,7 +9,7 @@
 #===============================================================
 ||welovemanga.net^$popup
 ||mymyads.net^
-
+||gamforce.com^
 # Specific site
 niceanimegames.com
 theonlygames.com
